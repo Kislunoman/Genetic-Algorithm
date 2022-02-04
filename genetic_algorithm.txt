@@ -1,0 +1,2 @@
+https://mofanpy.com/tutorials/
+https://github.com/MorvanZhou/Evolutionary-Algorithm
